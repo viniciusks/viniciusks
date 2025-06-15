@@ -1,8 +1,8 @@
 ## Olá!! Eu sou o Vinicius Kremer Santos (@viniciusks), programador DevOps.
 
-- 👨🏻‍💻 Hoje trabalho com DevSecOps
-- 📘 Estudando Python, NodeJS e PHP
-- 😁 Pronouns: ele/dele
+- 👨🏻‍💻 Hoje trabalho com DevSecOps;
+- 📘 Estudando Python, NodeJS, PHP e GoLang;
+- 😁 Pronouns: ele/dele;
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Vini-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
