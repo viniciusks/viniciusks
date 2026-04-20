@@ -39,10 +39,6 @@ Atualmente estudando Python e Go, com foco em segurança de containers e platafo
   <img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusks&layout=compact&theme=dark&hide_border=true"/>
 </div>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/viniciusks/viniciusks/output/github-contribution-grid-snake.svg" alt="snake animation"/>
-</div>
-
 ---
 
 <p align="center">
