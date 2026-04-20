@@ -1,5 +1,49 @@
-<h1 align="center">Vinicius Kremer Santos</h1>
-<h3 align="center">Analista de Infraestrutura Sênior · DevSecOps · Banco BV</h3>
+### Olá! Eu sou o Vinicius Kremer Santos 👋
+
+**Analista de Infraestrutura Sênior · DevSecOps · Banco BV**
+
+Trabalho com automação, segurança e entrega contínua em escala enterprise.
+Atualmente estudando Python e Go, com foco em segurança de containers e plataformas cloud.
+
+🏅 OCI Foundations Certified
+
+---
+
+**Linguagens**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Groovy](https://img.shields.io/badge/Groovy-4298B8?style=flat-square&logo=apachegroovy&logoColor=white)
+
+**DevOps & CI/CD**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Spinnaker](https://img.shields.io/badge/Spinnaker-139BB4?style=flat-square&logo=spinnaker&logoColor=white)
+![Nexus](https://img.shields.io/badge/Nexus-1B1C30?style=flat-square&logo=sonatype&logoColor=white)
+![UrbanCode](https://img.shields.io/badge/UrbanCode-052FAD?style=flat-square&logo=ibm&logoColor=white)
+
+**Cloud**
+
+![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=flat-square&logo=digitalocean&logoColor=white)
+![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud-F80000?style=flat-square&logo=oracle&logoColor=white)
+
+---
+
+<div align="center">
+  <img height="155" src="https://github-readme-stats.vercel.app/api?username=viniciusks&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusks&layout=compact&theme=dark&hide_border=true"/>
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/viniciusks/viniciusks/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+</div>
+
+---
 
 <p align="center">
   <a href="https://www.linkedin.com/in/vinicius-kremer-santos-219ab656" target="_blank">
@@ -12,72 +56,3 @@
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 </p>
-
----
-
-### 👨‍💻 Sobre mim
-
-- 🏦 **Banco BV** — Analista de Infraestrutura Sênior
-- 🔐 Focado em **DevSecOps**: automação, segurança e entrega contínua em escala enterprise
-- ☁️ Atuando com pipelines de CI/CD, orquestração de containers e plataformas cloud
-- 📚 Estudando **Python**, **Go** e aprofundando conhecimentos em segurança de containers
-- 🏅 **OCI Foundations Certified** (Oracle Cloud Infrastructure)
-- 🇧🇷 Ele/dele
-
----
-
-### 🛠️ Tecnologias & Ferramentas
-
-**Linguagens**
-
-<div>
-  <img alt="Python" title="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img alt="JavaScript" title="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img alt="TypeScript" title="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img alt="Groovy" title="Groovy" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/groovy/groovy-original.svg">
-  <img alt="Go" title="Go" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg">
-  <img alt="HTML5" title="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img alt="CSS3" title="CSS3" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-</div>
-
-<br>
-
-**DevOps & CI/CD**
-
-<div>
-  <img alt="Docker" title="Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
-  <img alt="Kubernetes" title="Kubernetes" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg">
-  <img alt="GitHub Actions" title="GitHub Actions" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg">
-  <img src="https://img.shields.io/badge/Spinnaker-139BB4?style=flat-square&logo=spinnaker&logoColor=white" alt="Spinnaker" title="Spinnaker" height="28">
-  <img src="https://img.shields.io/badge/Nexus-1B1C30?style=flat-square&logo=sonatype&logoColor=white" alt="Nexus" title="Sonatype Nexus" height="28">
-  <img src="https://img.shields.io/badge/UrbanCode-052FAD?style=flat-square&logo=ibm&logoColor=white" alt="UrbanCode" title="IBM UrbanCode" height="28">
-</div>
-
-<br>
-
-**Cloud**
-
-<div>
-  <img alt="Google Cloud" title="Google Cloud Platform" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg">
-  <img alt="DigitalOcean" title="DigitalOcean" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/digitalocean/digitalocean-original.svg">
-  <img src="https://img.shields.io/badge/Oracle_Cloud-F80000?style=flat-square&logo=oracle&logoColor=white" alt="Oracle Cloud" title="Oracle Cloud Infrastructure" height="28">
-</div>
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=viniciusks&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusks&layout=compact&theme=dark&hide_border=true"/>
-</div>
-
----
-
-### 🐍 Contribuições
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/viniciusks/viniciusks/output/github-contribution-grid-snake.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/viniciusks/viniciusks/output/github-contribution-grid-snake.svg">
-  <img alt="Animação de contribuições no GitHub" src="https://raw.githubusercontent.com/viniciusks/viniciusks/output/github-contribution-grid-snake.svg">
-</picture>
